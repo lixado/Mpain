@@ -1,2 +1,2 @@
 # Mpain
-C++ platform game
+C++ platform game using State Machine
