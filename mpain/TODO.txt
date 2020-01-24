@@ -1,0 +1,4 @@
+Need to add animation for dead boss
+Game takes inputs even when not in focus.
+
+

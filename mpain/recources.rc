@@ -1,0 +1,6 @@
+#ifndef _recource_rc
+#define _recource_rc
+
+MAINICON ICON "ICO-mpain.ico"
+
+#endif
